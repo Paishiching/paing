@@ -1,4 +1,4 @@
 
  #paing
  
- https://paishiching.github.io/paing/
+ https://paishiching.github.io/
